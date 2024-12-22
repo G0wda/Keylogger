@@ -1,7 +1,7 @@
-# Keystroke Logger Tool
+# Keylogger tool 
 
 ## Overview
-This Keystroke Logger Tool is a Python-based application that captures keyboard input and logs it into a text file (`log.txt`). It uses the `pynput` library to listen to keyboard events and can log alphanumeric characters, special keys, and actions such as backspace, space, and enter.
+This Keylogger Tool is a Python-based application that captures keyboard input and logs it into a text file (`log.txt`). It uses the `pynput` library to listen to keyboard events and can log alphanumeric characters, special keys, and actions such as backspace, space, and enter.
 
 **Note:** Use this tool responsibly. Unauthorized use of keylogging software may violate privacy laws and ethical guidelines. Always obtain proper consent before deploying this tool.
 
